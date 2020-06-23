@@ -1,0 +1,27 @@
+* {
+    color: white;
+    text-decoration: none;
+}
+
+h2:hover,
+a:hover {
+    color: rgb(255, 152, 0);
+}
+
+html {
+    background-color: rgb(32, 35, 41);
+}
+
+.text-gray {
+    color: rgb(158, 158, 158);
+}
+
+article {
+    width: 300px;
+    background-color: rgb(60, 62, 68);
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
